@@ -1,0 +1,10 @@
+faq:
+  enable : true
+  title : "Frequently asked questions"
+  content : "The cryptocurrency space is new and we all have questions but it's not as scary as you first think.  Hopefully we can head off any problems here."
+  faq_item:
+    - Question : "Where do I keep my Celtic Coin?"
+      answer : "You need a wallet. You can use a web app, a mobile app, a desktop app or a hardware wallet if you know what your are doing. If you are a proper Crypto person you'll know about paper wallets already and I'm not going to try teaching you about that."
+
+    - Question : "Question 2"
+      answer : "Here's a smart-arse answer."

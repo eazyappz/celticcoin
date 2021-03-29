@@ -1,0 +1,10 @@
+banner:
+  enable : true
+  title : "Celtic Coin"
+  content : "The only Cryptocurrency devoted to the greatest football team in the world."
+  contentspacer : " "
+  image : "images/coin.png"
+  button:
+   enable : true
+   label : "Get Celtic Coin"
+   link : "#trading"

@@ -1,0 +1,128 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Celtic Coin"
+  content : "The only Cryptocurrency devoted to the greatest football team in the world."
+  image : "images/coin.png"
+  button:
+   enable : true
+   label : "Get Celtic Coin"
+   link : "buy"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Our Core Features"
+  image : "images/coin-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Collectible"
+    icon : "images/bullet.png"
+    content : "With a fixed supply of 1,000,000 coins they are a collectible sure to raise in value."
+
+    # feature item loop
+  - title : "Tradable"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Buy and sell on a number of crypto exchanges or trade directly with ourselves!"
+
+    # feature item loop
+  - title : "Everlasting & Secure"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Celtic coin lives on the Ethereum blockchain so will be around forever and you can't lose it down the back of the sofa."
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "ERC20 Token"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Celtic FC Coin is an Ethereum ERC20 token which is faster (and better) then Bitcoin."
+
+    # feature item loop
+  - title : "Easy to store"
+    icon : "images/wallets/bullet.png"
+    content : "There are so many wallets (hardware, mobile apps, desktop apps, web wallets) that support ERC20 you can use your favourtie."
+
+    # feature item loop
+  - title : "Easy Pricing"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/coin.png"
+  title : "Buying and Selling Celtic Coin"
+  content : "We're not on any exchanges (yet) so currently it's direct purchase only.  On the plus side, that means there's no exchange fee/commission to pay. The downside, if you can call it that, is this involves an element of trust as you pay for the coin first and we send it to your wallet. The beauty of using Crypto is that it's all auditable (if you want it to be).
+            <br><br>
+            <b>Step-by-step</b>
+            <br>- Get yourself an Ethereum ready wallet
+            <br>- Send payment with a note of wallet address
+            <br>- When payment verified your wallet will be credited with Celtic Coin (CFC)
+            <br>- View transaction on Etherscan (https://etherscan.io/)
+            "
+
+
+################################## Subscription ###################
+subscription:
+  enable : true
+  bg_image : "images/call-to-action.jpg"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Wallets"
+  content : "Any wallet that can store Ethereum tokens (ERC20) can hold Celtic Coin however not everyone knows where to start looking so here's a small selection of wallets that can store Celtic Coin."
+  testimonial_item:
+    # testimonial item loop
+    - name : "Atomic Wallet"
+      designation : "Desktop Wallet + Mobile App"
+      image : "images/wallets/atomic.png"
+      content : "[https://atomicwallet.io/](https://atomicwallet.io/)"
+
+    # testimonial item loop
+    - name : "Trust Wallet"
+      designation : "Mobile App"
+      image : "images/wallets/trust.png"
+      content : "[https://trustwallet.com](https://trustwallet.com)"
+
+    # testimonial item loop
+    - name : "Metamask Wallet"
+      designation : "Broswer Plug-in Wallet"
+      image : "images/wallets/metamask.png"
+      content : "[https://metamask.io/](https://metamask.io/)"
+
+    # testimonial item loop
+    - name : "MyEtherWallet"
+      designation : "Mobile App"
+      image : "images/wallets/myetherwallet.png"
+      content : "[https://www.myetherwallet.com/](https://www.myetherwallet.com/)"
+
+    # testimonial item loop
+    - name : "Ledger"
+      designation : "Hardware Wallet"
+      image : "images/wallets/ledger.png"
+      content : "[https://www.ledger.com/](https://www.ledger.com/)"
+
+    # testimonial item loop
+    - name : "Trezor"
+      designation : "Hardware Wallet"
+      image : "images/wallets/trezor.png"
+      content : "[https://trezor.io/](https://trezor.io/)"
+faq:
+  enable : true
+  title : "Frequently asked questions"
+  content : "The cryptocurrency space is new and we all have questions but it's not as scary as you first think.  Hopefully we can head off any problems here."
+  faq_item:
+    - Question : "Where do I keep my Celtic Coin?"
+      answer : "You need a wallet. You can use a web app, a mobile app, a desktop app or a hardware wallet if you know what your are doing. If you are a proper Crypto person you'll know about paper wallets already and I'm not going to try teaching you about that."
+
+    - Question : "Question 2"
+      answer : "Here's a smart-arse answer."

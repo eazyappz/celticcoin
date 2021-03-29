@@ -1,0 +1,40 @@
+wallets:
+  enable : true
+  title : "Wallets"
+  content : "Any wallet that can store Ethereum tokens (ERC20) can hold Celtic Coin however not everyone knows where to start looking so here's a small selection of wallets that can store Celtic Coin."
+  testimonial_item:
+    # testimonial item loop
+    - name : "Atomic Wallet"
+      designation : "Desktop Wallet + Mobile App"
+      image : "images/wallets/atomic.png"
+      content : "[https://atomicwallet.io/](https://atomicwallet.io/)"
+
+    # testimonial item loop
+    - name : "Trust Wallet"
+      designation : "Mobile App"
+      image : "images/wallets/trust.png"
+      content : "[https://trustwallet.com](https://trustwallet.com)"
+
+    # testimonial item loop
+    - name : "Metamask Wallet"
+      designation : "Broswer Plug-in Wallet"
+      image : "images/wallets/metamask.png"
+      content : "[https://metamask.io/](https://metamask.io/)"
+
+    # testimonial item loop
+    - name : "MyEtherWallet"
+      designation : "Mobile App"
+      image : "images/wallets/myetherwallet.png"
+      content : "[https://www.myetherwallet.com/](https://www.myetherwallet.com/)"
+
+    # testimonial item loop
+    - name : "Ledger"
+      designation : "Hardware Wallet"
+      image : "images/wallets/ledger.png"
+      content : "[https://www.ledger.com/](https://www.ledger.com/)"
+
+    # testimonial item loop
+    - name : "Trezor"
+      designation : "Hardware Wallet"
+      image : "images/wallets/trezor.png"
+      content : "[https://trezor.io/](https://trezor.io/)"

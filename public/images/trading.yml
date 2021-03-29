@@ -1,0 +1,11 @@
+trading:
+  enable : true
+  image : "images/coin.png"
+  title : "Buying and Selling Celtic Coin"
+  content : "We're not on any exchanges (yet) so currently it's direct purchase only.  On the plus side then that means there's no exchange fee/commission to pay. The downside, if you can call it that, is this involves an element of trust as you pay for the coin first and we send it to your wallet. The beauty of using Crypto is that it's all auditable (if you want it to be).
+            <br><br>
+            <h3>Buying Direct</h3>
+            <ol>
+              <li>Send 0.005 ETH to '0xB522FE35B2EacA8Ea061eDD73Ae7D5737143733C'</li>
+              <li>Receive 1 Celtic Coin in return</li>
+            </ol>"

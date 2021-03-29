@@ -1,0 +1,39 @@
+whatis:
+  enable : true
+  title : "What is Celtic Coin?"
+  image : "images/coin.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Collectible"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "With a fixed supply of 1,000,000 coins they are a collectible sure to raise in value."
+
+    # feature item loop
+  - title : "Tradable"
+    icon : "tf-ion-ios-bell-outline"
+    content : "Buy and sell on a number of crypto exchanges or trade directly with ourselves!"
+
+    # feature item loop
+  - title : "Everlasting & Secure"
+    icon : "tf-ion-ios-alarm-outline"
+    content : "Celtic coin lives on the Ethereum blockchain so will be around forever and you can't lose it down the back of the sofa."
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "ERC20 Token"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Celtic FC Coin is an Ethereum ERC20 token which is faster (and better) then Bitcoin."
+
+    # feature item loop
+  - title : "Easy to store"
+    icon : "tf-ion-ios-bell-outline"
+    content : "There are so many wallets (hardware, mobile apps, desktop apps, web wallets) that support ERC20 you can use your favourtie."
+
+    # feature item loop
+  - title : "Easy Pricing"
+    icon : "tf-ion-ios-cart-outline"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
